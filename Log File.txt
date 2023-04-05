@@ -1,0 +1,15 @@
+Data: 0
+Hash: 380606475
+Execution Time: 5970 MicroSeconds
+Time stamp: Wed Apr 05 04:45:47 2023
+
+Data: 0
+Hash: 380606475
+Execution Time: 6815 MicroSeconds
+Time stamp: Wed Apr 05 04:46:31 2023
+
+Data: 123
+Hash: 360424247
+Execution Time: 6979 MicroSeconds
+Time stamp: Wed Apr 05 04:47:07 2023
+
